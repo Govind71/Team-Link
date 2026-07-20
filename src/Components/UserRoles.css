@@ -1,0 +1,104 @@
+/* ============================= */
+
+.steps-section{
+    padding:90px 0;
+    background:#ffffff;
+}
+
+.section-badge{
+    background:#e0f7ff;
+    color:#38bdf8;
+    border-radius:30px;
+    padding:8px 18px;
+    font-size:12px;
+    font-weight:600;
+}
+
+.section-title{
+    font-size:42px;
+    font-weight:700;
+    color:#11285b;
+}
+
+.step-circle{
+    width:48px;
+    height:48px;
+    background:#11285b;
+    color:#fff;
+    border-radius:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.step-title{
+    color:#11285b;
+    font-weight:700;
+    font-size:20px;
+}
+
+.step-description{
+    color:#6b7280;
+    font-size:15px;
+    line-height:1.7;
+}
+
+
+/* ============================= */
+
+.roles-section{
+    background:#f8fafc;
+    padding:90px 0;
+}
+
+.leader-card{
+    background:#11285b;
+    color:white;
+    border:none;
+    border-radius:20px;
+    padding:35px;
+    min-height:320px;
+}
+
+.leader-card h3{
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.leader-card ul{
+    list-style:none;
+    padding:0;
+}
+
+.leader-card li{
+    margin-bottom:18px;
+    color:#dbeafe;
+}
+
+
+.contributor-card{
+    background:white;
+    border-radius:20px;
+    border:1px solid #e5e7eb;
+    padding:35px;
+    min-height:320px;
+}
+
+.contributor-card h3{
+    color:#11285b;
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.contributor-card ul{
+    list-style:none;
+    padding:0;
+}
+
+.contributor-card li{
+    margin-bottom:18px;
+    color:#6b7280;
+}

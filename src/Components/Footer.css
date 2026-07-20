@@ -1,0 +1,97 @@
+/* Contact Section */
+
+.contact-section{
+    background:#f8fafc;
+    padding:70px 0 0;
+}
+
+.contact-card{
+    background:#fff;
+    border:1px solid #e5e7eb;
+    border-radius:20px;
+    padding:50px;
+    min-height:280px;
+}
+
+.contact-title{
+    color:#102a5c;
+    font-weight:700;
+    margin-bottom:15px;
+}
+
+.contact-text{
+    color:#6b7280;
+    line-height:1.8;
+    margin-bottom:30px;
+}
+
+.contact-item{
+    display:flex;
+    align-items:center;
+    margin-bottom:18px;
+    color:#475569;
+    font-size:15px;
+}
+
+.contact-icon{
+    color:#7c3aed;
+    margin-right:12px;
+}
+
+
+/* Footer */
+
+.footer-section{
+    background:#0b1f56;
+    color:#fff;
+    padding:55px 0;
+}
+
+.footer-logo{
+    display:flex;
+    align-items:center;
+    margin-bottom:18px;
+}
+
+.logo-box{
+    width:20px;
+    height:20px;
+    border-radius:6px;
+    margin-right:10px;
+    background:linear-gradient(135deg,#d946ef,#38bdf8);
+}
+
+.footer-logo h5{
+    margin:0;
+    font-weight:700;
+}
+
+.footer-description{
+    color:#b8c1d8;
+    font-size:14px;
+    line-height:1.8;
+}
+
+.footer-section h6{
+    margin-bottom:18px;
+    font-weight:600;
+}
+
+.footer-links{
+    list-style:none;
+    padding:0;
+}
+
+.footer-links li{
+    margin-bottom:12px;
+}
+
+.footer-links a{
+    color:#b8c1d8;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.footer-links a:hover{
+    color:#fff;
+}
